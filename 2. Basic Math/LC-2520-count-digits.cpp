@@ -1,9 +1,9 @@
 /*
-Problem: Count the Digits that Divide a number
-Link: https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/
-Platform: LeetCode
-Difficulty: Easy
-Approach: Basic math 
+Problem: Count the Digits that Divide a number 
+Link: https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/ 
+Platform: LeetCode 
+Difficulty: Easy 
+Approach: Basic math  
 Time: O(log n) 
 Space: O(1)  
 */
