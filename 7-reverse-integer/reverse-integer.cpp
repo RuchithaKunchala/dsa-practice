@@ -17,4 +17,9 @@ public:
         return rev; 
     }
 };
-//“I reverse the number digit by digit using integer math. Before each step, I check whether multiplying by 10 and adding the next digit would overflow 32-bit limits. Then I compare against INT_MAX/10 and INT_MIN/10 and handle the last digit carefully. If overflow is possible at any point, I return 0. 
+/*I reverse the number digit by digit using integer math. 
+Before each step, I check whether multiplying by 10 and 
+adding the next digit would overflow 32-bit limits. 
+Then I compare against INT_MAX/10 and INT_MIN/10 and 
+handle the last digit carefully. 
+If overflow is possible at any point, I return 0. */
