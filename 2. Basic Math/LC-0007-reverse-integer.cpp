@@ -2,7 +2,7 @@
 Problem: Reverse Integer
 Link: https://leetcode.com/problems/reverse-integer/description/
 Platform: LeetCode
-Difficulty: Easy
+Difficulty: Medium 
 Approach: I reverse the number digit by digit using integer math. 
     Before each step, I check whether multiplying by 10 and adding the next digit would overflow 32-bit limits. 
     Then I compare against INT_MAX/10 and INT_MIN/10 and handle the last digit carefully. 
