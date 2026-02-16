@@ -1,7 +1,14 @@
-/* 
-Problem: https://leetcode.com/problems/reverse-integer/description/ 
-TC: 
-
+/*
+Problem: Reverse Integer
+Link: https://leetcode.com/problems/reverse-integer/description/
+Platform: LeetCode
+Difficulty: Easy
+Approach: I reverse the number digit by digit using integer math. 
+    Before each step, I check whether multiplying by 10 and adding the next digit would overflow 32-bit limits. 
+    Then I compare against INT_MAX/10 and INT_MIN/10 and handle the last digit carefully. 
+    If overflow is possible at any point, I return 0. 
+Time: O(log n) 
+Space: O(1)  
 */
 class Solution {
 public:
@@ -22,9 +29,3 @@ public:
         return rev; 
     }
 };
-/*I reverse the number digit by digit using integer math. 
-Before each step, I check whether multiplying by 10 and 
-adding the next digit would overflow 32-bit limits. 
-Then I compare against INT_MAX/10 and INT_MIN/10 and 
-handle the last digit carefully. 
-If overflow is possible at any point, I return 0. */
