@@ -12,13 +12,12 @@ Focus: Interview preparation
 **[5. Arrays](https://github.com/RuchithaKunchala/dsa-practice/tree/b2305037dc8ec4febc4e9ed1dcaaf6c136fe4183/5.%20Arrays)** <br>
 **[6. Binary Search](https://github.com/RuchithaKunchala/dsa-practice/tree/b2305037dc8ec4febc4e9ed1dcaaf6c136fe4183/6.%20Binary%20Search)** <br>
 **[7. Strings](https://github.com/RuchithaKunchala/dsa-practice/tree/b2305037dc8ec4febc4e9ed1dcaaf6c136fe4183/7.%20Strings)** <br> 
-**[]()** <br> 
-
-- 
-- 
-- Binary Search
-- Strings
-- Linked List
+**[8. Linked List](https://github.com/RuchithaKunchala/dsa-practice/tree/3c999fccacc8183eae33d3e26db62099f3ec0c51/8.%20Linked%20List)** <br> 
+**[9. Bit Manipulation](https://github.com/RuchithaKunchala/dsa-practice/tree/3c999fccacc8183eae33d3e26db62099f3ec0c51/9.%20Bit%20Manipulation)** <br>
+**[]()** <br>
+**[]()** <br>
+**[]()** <br>
+ 
 - Bit Manipulation
 - Stack & Queue
 - Sliding Window
