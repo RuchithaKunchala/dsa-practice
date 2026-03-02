@@ -16,14 +16,17 @@ Focus: Interview preparation
 **[9. Bit Manipulation](https://github.com/RuchithaKunchala/dsa-practice/tree/3c999fccacc8183eae33d3e26db62099f3ec0c51/9.%20Bit%20Manipulation)** <br>
 **[10. Stack & Queue](https://github.com/RuchithaKunchala/dsa-practice/tree/d039b76b054ec3890bf26f08555dd789a365fa8f/10.%20Stack%20%26%20Queue)** <br>
 **[11. Sliding Window](https://github.com/RuchithaKunchala/dsa-practice/tree/00d685c6b553cfd9965b2b27cb9220daa2f11f90/11.%20Sliding%20Window)** <br>
+**[12. Heaps](https://github.com/RuchithaKunchala/dsa-practice/tree/e04eb0ef45978e1daa315dd6e91b9fa5e38a5b81/12.%20Heaps)** <br>
 **[]()** <br>
 **[]()** <br>
 **[]()** <br>
 **[]()** <br>
- 
+**[]()** <br>
+**[]()** <br>
+**[]()** <br>
  
 - 
-- Heaps
+- 
 - Greedy Algorithms
 - Binary Tree
 - Binary Search Tree
